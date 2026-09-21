@@ -30,8 +30,8 @@ An interactive Power BI dashboard that analyzes mobile phone sales by brand, cit
 
 ## 📁 Files
 - `Interactive_dashboard.pbix`: Power BI file (open in Power BI Desktop)
-- `data/`: dataset used
-- `images/`: dashboard screenshots
+- `Interactive_dashboard.pdf`: PDF export of the dashboard
+- `Mobile Sales Data.xlsx`: dataset used
 
 ## 🎯 Purpose
 The purpose of this project is to turn raw mobile sales data into clear, interactive visuals that help track sales performance, identify top-selling brands and models, understand customer payment and rating patterns, and spot sales trends over time to support better business decisions.
