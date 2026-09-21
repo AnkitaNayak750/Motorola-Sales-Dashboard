@@ -3,7 +3,7 @@
 An interactive Power BI dashboard that analyzes mobile phone sales by brand, city, payment method, day and month.
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
+<img width="1337" height="763" alt="Screenshot 2026-09-21 230635" src="https://github.com/user-attachments/assets/20e0adfb-b2f6-4375-9f73-28e1114db38a" />
 
 ## 🔑 Key Metrics
 - **Total Sales:** 769M
